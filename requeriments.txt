@@ -1,25 +1,30 @@
 # ── Extração de texto PDF ─────────────────────────────────────────────────────
-PyMuPDF==1.24.3
+PyMuPDF==1.27.2
 
 # ── NLP ───────────────────────────────────────────────────────────────────────
-spacy==3.7.4
+spacy==3.8.7
 # Após instalar, execute: python -m spacy download pt_core_news_sm
-sentence-transformers==2.7.0
+sentence-transformers==5.1.2
 
 # ── Process Mining ────────────────────────────────────────────────────────────
-pm4py==2.7.11
+pm4py==2.7.20.1
 
 # ── Modelagem de Tópicos ──────────────────────────────────────────────────────
-scikit-learn==1.4.2
-gensim==4.3.2
+scikit-learn==1.7.2
+gensim==4.4.0
+
+# ── Deep Learning (dependência do sentence-transformers) ─────────────────────
+torch==2.9.0+cpu
+transformers==4.57.1
 
 # ── Manipulação de dados ──────────────────────────────────────────────────────
-pandas==2.2.2
-numpy==1.26.4
-openpyxl==3.1.2
+pandas==2.2.3
+numpy==2.0.1
+openpyxl==3.1.5
 
 # ── Geração de relatório PDF ──────────────────────────────────────────────────
-reportlab==4.1.0
+reportlab==4.4.10
 
 # ── Utilitários ───────────────────────────────────────────────────────────────
-pathlib2==2.3.7
+regex==2025.10.23
+tqdm==4.67.1
