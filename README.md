@@ -170,4 +170,4 @@ ARQUIVO_SAIDA  = "resultado_requisitos_pados_sf.xlsx"
 
 ## Contexto Acadêmico
 
-Este projeto é parte de dissertação de mestrado do **PPGTI/IFPB** na linha de pesquisa de Transparência em Inteligência Artificial aplicada à Administração Pública.
+Este projeto é parte do projeto de pesquisa ANATEL - Eixo 6 Controle, na linha de pesquisa de Transparência em Inteligência Artificial aplicada à Administração Pública.
