@@ -1,0 +1,36 @@
+# ── Dados brutos e gerados ────────────────────────────────────────────────────
+pdfs_anatel/
+csvs_anatel/
+base_pado_anatel/
+dados/
+
+# ── Saídas dos notebooks ──────────────────────────────────────────────────────
+*.xlsx
+*.csv
+*.pdf
+*.html
+*.pkl
+*.txt
+
+# ── Temporários do Office/Excel ───────────────────────────────────────────────
+~$*
+
+# ── Ambiente virtual Python ───────────────────────────────────────────────────
+venv/
+.venv/
+env/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# ── VS Code ───────────────────────────────────────────────────────────────────
+.vscode/
+
+# ── Sistema ───────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Pasta de testes antigos ───────────────────────────────────────────────────
+teste_antigos/
