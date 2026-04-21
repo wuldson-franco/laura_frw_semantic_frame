@@ -22,13 +22,13 @@ Adaptado do framework **DERECHA** (Amaral Cejas et al., 2023, IEEE TSE vol. 49, 
 ```
 .
 ├── 1_analise_SF_INST_pados.ipynb        # Notebook principal — Semantic Frames + 7 Requisitos
-├── 1b_analise_LDA_LSA_SF_pados.ipynb   # Classificação temática (LDA/LSA)
-├── 1b_analise_RC_CC_INST_pados.ipynb   # Conformance Checking — fluxo processual (pm4py)
+├── 1b_analise_LDA_LSA_SF_pados.ipynb   # Classificação temática (LDA/LSA) - teste para uso do LDA
+├── 2_analise_RC_CC_INST_pados.ipynb   # Conformance Checking — fluxo processual (pm4py)
 ├── 3_analise_XAI_LDA_INST_pados.ipynb  # Integração XAI — score composto e relatório final
 ├── requirements.txt
 └── README.md
 ```
-
+Para saber mais sobre o uso e para que serve cada um deles acesse o arquivo readme_notebooks.md
 ---
 
 ## Os 7 Requisitos de Conformidade (R1–R7)
