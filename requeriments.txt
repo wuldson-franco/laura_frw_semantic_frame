@@ -6,6 +6,10 @@ spacy==3.8.7
 # Após instalar, execute: python -m spacy download pt_core_news_sm
 sentence-transformers==5.1.2
 
+# ── LangChain ─────────────────────────────────────────────────────────────────
+langchain==0.1.0
+langchain-huggingface==0.0.1
+
 # ── Process Mining ────────────────────────────────────────────────────────────
 pm4py==2.7.20.1
 
@@ -14,7 +18,7 @@ scikit-learn==1.7.2
 gensim==4.4.0
 
 # ── Deep Learning (dependência do sentence-transformers) ─────────────────────
-torch==2.9.0+cpu
+torch==2.9.0
 transformers==4.57.1
 
 # ── Manipulação de dados ──────────────────────────────────────────────────────
