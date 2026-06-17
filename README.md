@@ -68,7 +68,7 @@ O arquivo `CSV_PROCESSO_SANCIONADOR` (fonte: portal público da ANATEL) é usado
 ### 3. Download dos PDFs
 
 Os PDFs dos PADOs são coletados via SEI público:
-👉 https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php
+👉 [https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php](https://sei.anatel.gov.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0)
 
 > **Nota:** O portal gera tokens aleatórios por sessão, o que exigiu coleta semi-manual dos links. O script `extracao_sei_v2` automatiza o download após a coleta dos tokens, salvando os documentos no formato:
 > ```
