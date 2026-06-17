@@ -5,11 +5,12 @@
 
 ## Visão Geral
 
-Este projeto implementa um pipeline de verificação de conformidade documental para a fase de **Instauração** de PADOs da ANATEL, combinando três abordagens complementares:
+Este projeto implementa o modelo **LAURA** (*Legal AUtomated Regulatory conformance by semantic frAmes*), um pipeline de verificação de conformidade documental para a fase de  **Instauração** de PADOs da ANATEL, combinando três abordagens complementares:
 
-- **Semantic Frames** via `sentence-transformers` — matching semântico por similaridade de cosseno
-- **Conformance Checking** via `pm4py` — verificação do fluxo processual esperado
-- **Classificação Temática** via LDA/LSA — identificação do tema regulatório dominante
+- **Abordagem A** (linha de base) — correspondência por expressões regulares combinada com similaridade semântica via `sentence-transformers` (`paraphrase-multilingual-MiniLM-L12-v2`)
+- **Abordagem B** (proposta) — similaridade de cosseno no espaço semântico LSA (*Latent Semantic Analysis*) construído sobre o corpus dos PADOs, capturando sinonímia de domínio sem dicionários externos
+- **Conformance Checking** via `pm4py` — verificação do fluxo processual esperado (Token-based Replay sobre rede de Petri)
+- **Classificação Temática** via LDA — identificação do tipo documental e ativação dos requisitos normativos correspondentes
 
 O framework verifica **7 Requisitos de Conformidade** normativos (R1–R7) com base na LGT, RASA e Lei 9.784/99, e gera relatórios individuais em PDF por PADO com explicação das não-conformidades.
 
@@ -165,6 +166,10 @@ ARQUIVO_SAIDA  = "resultado_requisitos_pados_sf.xlsx"
 - ANATEL. *Regulamento de Aplicação de Sanções Administrativas (RASA)*.
 - Lei nº 9.472/1997 — Lei Geral de Telecomunicações (LGT).
 - Lei nº 9.784/1999 — Processo Administrativo Federal.
+- Os resultados deste pipeline foram publicados no artigo:
+> Silva, W. F. F. et al. (2026). *Compliance in Administrative 
+> Procedural Flows: a Semantic Frame-based Approach*. 
+> ENIAC 2026 — BRACIS.
 
 ---
 
