@@ -1,4 +1,4 @@
-# Analisador de Conformidade em PADOs — ANATEL
+# LAURA — Compliance in Administrative Procedural Flows: a Semantic Frame-based Approach
 > Framework de Transparência em IA aplicado à fase de Instauração de Processos Administrativos de Apuração de Descumprimento de Obrigações (PADOs) da ANATEL.
 
 ---
