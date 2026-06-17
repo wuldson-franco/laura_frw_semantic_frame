@@ -166,13 +166,19 @@ ARQUIVO_SAIDA  = "resultado_requisitos_pados_sf.xlsx"
 - ANATEL. *Regulamento de Aplicação de Sanções Administrativas (RASA)*.
 - Lei nº 9.472/1997 — Lei Geral de Telecomunicações (LGT).
 - Lei nº 9.784/1999 — Processo Administrativo Federal.
-- Os resultados deste pipeline foram publicados no artigo:
-> Silva, W. F. F. et al. (2026). *Compliance in Administrative 
-> Procedural Flows: a Semantic Frame-based Approach*. 
-> ENIAC 2026 — BRACIS.
+
+---
+
+## Citação
+
+Se você usar este código em sua pesquisa, por favor cite:
+
+> Silva, W. F. F., Lins Júnior, P. R., Gurjão, E. C. (2026).
+> *Compliance in Administrative Procedural Flows: a Semantic
+> Frame-based Approach*. ENIAC 2026 — BRACIS.
 
 ---
 
 ## Contexto Acadêmico
 
-Este projeto é parte do projeto de pesquisa ANATEL - Eixo 6 Controle, na linha de pesquisa de Transparência em Inteligência Artificial aplicada à Administração Pública.
+Este projeto é parte da dissertação de mestrado do Programa de Pós-Graduação em Tecnologia da Informação (PPGTI) do Instituto Federal da Paraíba (IFPB), desenvolvido no âmbito do projeto de pesquisa ANATEL — Eixo 6 Controle, na linha de pesquisa de Transparência em Inteligência Artificial aplicada à Administração Pública.
