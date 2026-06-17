@@ -12,6 +12,9 @@ Para cada requisito, o notebook responde: *"Este documento existe e contém o co
 
 A verificação usa **Semantic Frames** com o modelo `paraphrase-multilingual-MiniLM-L12-v2` (sentence-transformers), que compara o conteúdo dos PDFs com sentenças de referência baseadas nos normativos (LGT, RASA e Lei 9.784/99). O threshold de similaridade de cosseno é 0.55.
 
+A verificação usa **Abordagem A** (linha de base) — correspondência por expressões regulares combinada com similaridade semântica via `sentence-transformers` (`paraphrase-multilingual-MiniLM-L12-v2`). 
+A **Abordagem B** (LSA) é implementada no notebook `1b`.
+
 Quando um requisito não é encontrado, o notebook identifica a **causa raiz** entre três possibilidades:
 - PDF escaneado sem texto extraível (flag OCR)
 - Etapa processual ausente na pasta do PADO
@@ -125,6 +128,12 @@ Notebook de integração final. Combina os resultados das três camadas do frame
 | Conformidade R1–R7 | Notebook 1 | 50% |
 | Fluxo Processual | Notebook 2 | 35% |
 | Qualidade dos PDFs (OCR) | Notebook 1 | 15% |
+
+> **Nota:** No artigo publicado (ENIAC 2026), os níveis BAIXO e
+> CRÍTICO foram consolidados em uma única faixa (BAIXO) para
+> simplificação da apresentação dos resultados. Os 14 PADOs
+> classificados como BAIXO no artigo correspondem à soma dos
+> níveis BAIXO e CRÍTICO gerados por este notebook.
 
 O score classifica cada PADO em quatro níveis: **ALTO** (≥0.85) · **MEDIO** (≥0.65) · **BAIXO** (≥0.40) · **CRITICO** (<0.40)
 
