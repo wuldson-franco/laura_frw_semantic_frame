@@ -122,7 +122,7 @@ Os arquivos abaixo são gerados durante a execução e estão disponíveis no re
 
 ## Dashboard Interativo
 
-Acesse o relatório XAI completo em: [relatorio_xai_pados.html](https://wuldson-franco.github.io/frw_semantic_frame/relatorio_xai_pados.html)
+Acesse o relatório XAI completo em: [relatorio_xai_pados.html]([https://wuldson-franco.github.io/frw_semantic_frame/relatorio_xai_pados.html](https://wuldson-franco.github.io/laura_frw_semantic_frame/relatorio_xai_pados.html).
 
 ---
 
