@@ -22,14 +22,20 @@ Adaptado do framework **DERECHA** (Amaral Cejas et al., 2023, IEEE TSE vol. 49, 
 
 ```
 .
-├── 1_analise_SF_INST_pados.ipynb        # Notebook principal — Semantic Frames + 7 Requisitos
-├── 1b_analise_LDA_LSA_SF_pados.ipynb   # Classificação temática (LDA/LSA) - teste para uso do LDA
-├── 2_analise_RC_CC_INST_pados.ipynb   # Conformance Checking — fluxo processual (pm4py)
-├── 3_analise_XAI_LDA_INST_pados.ipynb  # Integração XAI — score composto e relatório final
-├── requirements.txt
+├── notebooks/
+│   ├── 1_analise_SF_INST_pados.ipynb         # Semantic Frames + 7 Requisitos
+│   ├── 1b_analise_LDA_LSA_SF_pados.ipynb     # Classificação temática (LDA/LSA)
+│   ├── 2_analise_RC_CC_INST_pados.ipynb      # Conformance Checking (pm4py)
+│   └── 3_analise_XAI_LDA_INST_pados.ipynb    # Score composto e relatório final
+├── extracao_sei_v2.py                        # Script de download dos PDFs do SEI
+├── event_log_instauracao.csv                 # Event log para Process Mining
+├── modelo_lda_pados.pkl                      # Modelo LDA serializado
+├── relatorio_xai_pados.xlsx                  # Score composto e Status do Fluxo
+├── resultado_requisitos_pados_sf.xlsx        # Matriz de Conformidade
+├── readme_notebooks.md                       # Documentação dos notebooks
+├── requerimentos.txt
 └── README.md
 ```
-Para saber mais sobre o uso e para que serve cada um deles acesse o arquivo readme_notebooks.md
 ---
 
 ## Os 7 Requisitos de Conformidade (R1–R7)
@@ -103,18 +109,20 @@ Integra os resultados dos notebooks anteriores e gera o relatório final consoli
 
 ## Arquivos Gerados (não versionados)
 
-Os arquivos abaixo são gerados localmente durante a execução e **não estão incluídos no repositório**:
+Os arquivos abaixo são gerados durante a execução e estão disponíveis no repositório para reprodução das análises:
 
 | Arquivo | Descrição |
 |---------|-----------|
 | `resultado_requisitos_pados_sf.xlsx` | Matriz de Conformidade + Detalhes e Evidências |
 | `relatorio_xai_pados.xlsx` | Score composto e Status do Fluxo Processual |
 | `relatorio_xai_pados.html` | Visualização HTML do relatório XAI |
-| `relatorio_XXXXX.XXXXXX_AAAA-DD.pdf` | Relatório PDF individual por PADO |
 | `event_log_instauracao.csv` | Event log para Process Mining |
-| `modelo_lda_pados.pkl` | Modelo LDA serializado |
-| `pdfs_anatel/` | PDFs dos PADOs coletados |
-| `csvs_anatel/` | Bases brutas do SEI em Números |
+
+---
+
+## Dashboard Interativo
+
+Acesse o relatório XAI completo em: [relatorio_xai_pados.html](https://wuldson-franco.github.io/frw_semantic_frame/relatorio_xai_pados.html)
 
 ---
 
@@ -141,7 +149,7 @@ python -m spacy download pt_core_news_sm
 
 ## Configuração
 
-Antes de executar o notebook principal, ajuste os caminhos no início do `1_analise_SF_INST_pados.ipynb`:
+Antes de executar, ajuste os caminhos no início do `notebooks/1_analise_SF_INST_pados.ipynb`:
 
 ```python
 PASTA_PADOS    = r"caminho\para\pdfs_anatel"

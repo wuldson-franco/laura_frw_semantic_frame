@@ -1,0 +1,418 @@
+﻿case_id;activity;timestamp;doc_tipo;doc_arquivo;recurso;cargo;origem;pado_pasta
+53000.062585.2010-06;A3_Despacho_Instauracao;2024-05-29;Despacho Ordinatório;doc_12041966.pdf;Amiraldo Salgado do Amaral;Especialista em Regulação;Assinatura eletrônica;53000.062585_2010-06
+53500.007555.2026-55;A2_Analise_Previa;2022-01-26;Informe;doc_15117751.pdf;Marcelo Barroso Barbosa Leite;Gerente de Controle;Assinatura eletrônica;53500.007555_2026-55
+53500.007555.2026-55;A3_Despacho_Instauracao;2026-02-05;Despacho Ordinatório;doc_15117838.pdf;Raphael Garcia de Souza;Gerente de Controle de;Assinatura eletrônica;53500.007555_2026-55
+53500.008890.2026-71;A3_Despacho_Instauracao;2026-02-25;Despacho Ordinatório;doc_15138156.pdf;Henrique Strazzer Vilas Boas;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.008890_2026-71
+53500.008890.2026-71;A4_Notificacao_Autuado;2026-03-24;Certidão de Intimação;doc_15383746.pdf;N/A;N/A;Não identificado;53500.008890_2026-71
+53500.008991.2025-61;A3_Despacho_Instauracao;2025-02-13;Despacho Ordinatório;doc_13243642.pdf;Henrique Strazzer Vilas Boas;Gerente de Controle de Obrigações de Direitos dos Consumidores;Assinatura eletrônica;53500.008991_2025-61
+53500.008991.2025-61;A4_Notificacao_Autuado;2022-06-23;Certidão de Intimação;doc_13525440.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.008991_2025-61
+53500.008991.2025-61;A4_Notificacao_Autuado;2025-04-28;Certidão de Intimação;doc_13667430.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.008991_2025-61
+53500.008991.2025-61;A4_Notificacao_Autuado;2025-05-27;Certidão de Intimação;doc_13813983.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.008991_2025-61
+53500.008991.2025-61;A4_Notificacao_Autuado;2026-02-12;Certidão de Intimação;doc_15218214.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.008991_2025-61
+53500.008995.2025-49;A3_Despacho_Instauracao;2025-02-13;Despacho Ordinatório;doc_13243761.pdf;Henrique Strazzer Vilas Boas;Gerente de Controle de Obrigações de Direitos dos Consumidores;Assinatura eletrônica;53500.008995_2025-49
+53500.008995.2025-49;A4_Notificacao_Autuado;2025-03-20;Certidão de Intimação;doc_13488114.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.008995_2025-49
+53500.009858.2026-11;A3_Despacho_Instauracao;2014-02-24;Despacho Ordinatório;doc_15178461.pdf;Raphael Garcia de Souza;Gerente de Controle de;Assinatura eletrônica;53500.009858_2026-11
+53500.011614.2022-66;A4_Notificacao_Autuado;2023-03-17;Certidão de Intimação;doc_10043623.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.011614_2022-66
+53500.011614.2022-66;A3_Despacho_Instauracao;2021-01-04;Despacho Ordinatório;doc_8050262.pdf;Sami Benakouche;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.011614_2022-66
+53500.011614.2022-66;A4_Notificacao_Autuado;2023-02-10;Certidão de Intimação;doc_9864405.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.011614_2022-66
+53500.011614.2022-66;A1_Documento_Motivador;2019-02-04;Relatório de Fiscalização;SEI_53508.000370_2019_11.pdf;Luiz Fernando Nunes Ribeiro;Especialista em;Assinatura eletrônica;53500.011614_2022-66
+53500.014139.2023-61;A3_Despacho_Instauracao;2023-07-28;Despacho Ordinatório;doc_10439663.pdf;Marcos Paulo Carozza;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.014139_2023-61
+53500.014139.2023-61;A4_Notificacao_Autuado;2023-07-31;Certidão de Intimação;doc_10710385.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.014139_2023-61
+53500.014139.2023-61;A4_Notificacao_Autuado;2023-10-03;Certidão de Intimação;doc_11015729.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.014139_2023-61
+53500.016622.2024-61;A3_Despacho_Instauracao;2024-03-01;Despacho Ordinatório;doc_11586785.pdf;Henrique Strazzer Vilas Boas;Gerente de Controle de Obrigações de Direitos dos;Assinatura eletrônica;53500.016622_2024-61
+53500.016622.2024-61;A4_Notificacao_Autuado;2024-04-05;Certidão de Intimação;doc_11860239.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.016622_2024-61
+53500.017655.2022-66;A3_Despacho_Instauracao;2025-07-21;Despacho Ordinatório;doc_14035984.pdf;Suzana Silva Rodrigues;Superintendente de Controle de;Assinatura eletrônica;53500.017655_2022-66
+53500.017655.2022-66;A2_Analise_Previa;2022-12-05;Informe;doc_8115289.pdf;Marcos Paulo Carozza;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.017655_2022-66
+53500.017655.2022-66;A4_Notificacao_Autuado;2022-12-07;Certidão de Intimação;doc_9599133.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.017655_2022-66
+53500.017655.2022-66;A4_Notificacao_Autuado;2023-01-30;Certidão de Intimação;doc_9827750.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.017655_2022-66
+53500.019425.2026-65;A3_Despacho_Instauracao;2026-03-13;Despacho Ordinatório;doc_15309578.pdf;Henrique Strazzer Vilas Boas;Gerente de Controle de Obrigações de;Assinatura eletrônica;53500.019425_2026-65
+53500.021979.2025-41;A3_Despacho_Instauracao;2025-04-03;Despacho Ordinatório;doc_13458729.pdf;Raphael Garcia de Souza;Gerente de Controle de;Assinatura eletrônica;53500.021979_2025-41
+53500.021979.2025-41;A4_Notificacao_Autuado;2025-05-09;Aviso de Recebimento (AR);doc_13739769.pdf;N/A;N/A;Não identificado;53500.021979_2025-41
+53500.021979.2025-41;A4_Notificacao_Autuado;2025-05-20;Aviso de Recebimento (AR);doc_13820050.pdf;N/A;N/A;Não identificado;53500.021979_2025-41
+53500.022299.2024-64;A3_Despacho_Instauracao;2023-07-28;Despacho Ordinatório;doc_10439663.pdf;Marcos Paulo Carozza;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.022299_2024-64
+53500.022299.2024-64;A4_Notificacao_Autuado;2023-07-31;Certidão de Intimação;doc_10710385.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.022299_2024-64
+53500.022299.2024-64;A4_Notificacao_Autuado;2023-10-03;Certidão de Intimação;doc_11015729.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.022299_2024-64
+53500.022299.2024-64;A4_Notificacao_Autuado;2024-04-24;Certidão de Intimação;doc_11956871.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.022299_2024-64
+53500.022299.2024-64;A4_Notificacao_Autuado;2024-10-15;Certidão de Intimação;doc_12780594.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.022299_2024-64
+53500.022299.2024-64;A4_Notificacao_Autuado;2024-10-29;Certidão de Intimação;doc_12800249.pdf;N/A;N/A;Não identificado;53500.022299_2024-64
+53500.022299.2024-64;A4_Notificacao_Autuado;2025-04-01;Certidão de Intimação;doc_13558053.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.022299_2024-64
+53500.030037.2023-92;A3_Despacho_Instauracao;2012-10-18;Despacho Ordinatório;doc_10118112.pdf;Marcos Paulo Carozza;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.030037_2023-92
+53500.030037.2023-92;A1_Documento_Motivador;2011-06-01;Relatório de Fiscalização;doc_10120523.pdf;N/A;N/A;Não identificado;53500.030037_2023-92
+53500.030037.2023-92;A4_Notificacao_Autuado;2023-05-24;Certidão de Intimação;doc_10366754.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.030037_2023-92
+53500.030037.2023-92;A4_Notificacao_Autuado;2023-08-18;Certidão de Intimação;doc_10810823.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.030037_2023-92
+53500.030037.2023-92;A4_Notificacao_Autuado;2023-09-13;Certidão de Intimação;doc_10852549.pdf;N/A;N/A;Não identificado;53500.030037_2023-92
+53500.034731.2025-41;A3_Despacho_Instauracao;2025-05-27;Despacho Ordinatório;doc_13741433.pdf;Raphael Garcia de Souza;Gerente de Controle de;Assinatura eletrônica;53500.034731_2025-41
+53500.034731.2025-41;A4_Notificacao_Autuado;2025-06-26;Certidão de Intimação;doc_13967367.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.034731_2025-41
+53500.036351.2018-11;A1_Documento_Motivador;1997-07-16;Relatório de Fiscalização;doc_3070443.pdf;N/A;N/A;Não identificado;53500.036351_2018-11
+53500.036351.2018-11;A1_Documento_Motivador;2013-01-30;Relatório de Fiscalização;doc_3070598.pdf;N/A;N/A;Não identificado;53500.036351_2018-11
+53500.036351.2018-11;A1_Documento_Motivador;2013-02-05;Relatório de Fiscalização;doc_3070641.pdf;N/A;N/A;Não identificado;53500.036351_2018-11
+53500.036351.2018-11;A2_Analise_Previa;2010-05-12;Informe;doc_3093155.pdf;Ronaldo Neves de Moura Filho;Gerente de Controle;Assinatura eletrônica;53500.036351_2018-11
+53500.036351.2018-11;A3_Despacho_Instauracao;2018-12-13;Despacho Ordinatório;doc_3596087.pdf;José Borges da Silva Neto;Gerente de Controle de;Assinatura eletrônica;53500.036351_2018-11
+53500.036351.2018-11;A4_Notificacao_Autuado;2018-12-13;Certidão de Intimação;doc_3613460.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036351_2018-11
+53500.036351.2018-11;A4_Notificacao_Autuado;2018-12-17;Certidão de Intimação;doc_3622101.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036351_2018-11
+53500.036351.2018-11;A4_Notificacao_Autuado;2018-12-13;Certidão de Intimação;doc_3664976.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036351_2018-11
+53500.036351.2018-11;A4_Notificacao_Autuado;2018-12-13;Certidão de Intimação;doc_3664977.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036351_2018-11
+53500.036351.2018-11;A4_Notificacao_Autuado;2018-12-13;Certidão de Intimação;doc_3664978.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036351_2018-11
+53500.036351.2018-11;A4_Notificacao_Autuado;2018-12-13;Certidão de Intimação;doc_3664979.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036351_2018-11
+53500.036351.2018-11;A4_Notificacao_Autuado;2018-12-17;Certidão de Intimação;doc_3670377.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036351_2018-11
+53500.036351.2018-11;A4_Notificacao_Autuado;2019-08-05;Certidão de Intimação;doc_4519453.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036351_2018-11
+53500.036351.2018-11;A1_Documento_Motivador;2019-07-29;Relatório de Fiscalização;doc_5024034.pdf;N/A;N/A;Não identificado;53500.036351_2018-11
+53500.036351.2018-11;A4_Notificacao_Autuado;2022-04-14;Certidão de Intimação;doc_8393197.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036351_2018-11
+53500.036351.2018-11;A4_Notificacao_Autuado;2022-05-30;Certidão de Intimação;doc_8580443.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036351_2018-11
+53500.036487.2023-99;A3_Despacho_Instauracao;2021-06-25;Despacho Ordinatório;doc_10213698.pdf;Sami Benakouche;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.036487_2023-99
+53500.036487.2023-99;A4_Notificacao_Autuado;2023-06-26;Certidão de Intimação;doc_10532218.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036487_2023-99
+53500.036487.2023-99;A4_Notificacao_Autuado;2023-07-17;Certidão de Intimação;doc_10564249.pdf;N/A;N/A;Não identificado;53500.036487_2023-99
+53500.036487.2023-99;A4_Notificacao_Autuado;2023-08-16;Certidão de Intimação;doc_10796242.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.036487_2023-99
+53500.036487.2023-99;A1_Documento_Motivador;2023-09-01;Relatório de Fiscalização;doc_10804067.pdf;N/A;N/A;Não identificado;53500.036487_2023-99
+53500.036487.2023-99;A4_Notificacao_Autuado;2023-09-01;Certidão de Intimação;doc_10804069.pdf;N/A;N/A;Não identificado;53500.036487_2023-99
+53500.047569.2022-88;A3_Despacho_Instauracao;2023-05-17;Despacho Ordinatório;doc_10119316.pdf;Henrique Strazzer Vilas Boas;Gerente de Controle de;Assinatura eletrônica;53500.047569_2022-88
+53500.047569.2022-88;A4_Notificacao_Autuado;2023-05-17;Certidão de Intimação;doc_10324856.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.047569_2022-88
+53500.047569.2022-88;A4_Notificacao_Autuado;2023-09-22;Certidão de Intimação;doc_10977698.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.047569_2022-88
+53500.047569.2022-88;A4_Notificacao_Autuado;2025-12-22;Certidão de Intimação;doc_14989720.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.047569_2022-88
+53500.047569.2022-88;A2_Analise_Previa;2022-06-03;Informe;doc_8544361.pdf;Henrique Strazzer Vilas Boas;Gerente de Controle de Obrigações de;Assinatura eletrônica;53500.047569_2022-88
+53500.047569.2022-88;A2_Analise_Previa;2022-04-05;Informe;doc_8547120.pdf;Eduardo Marques da Costa Jacomassi;Gerente de;Assinatura eletrônica;53500.047569_2022-88
+53500.047569.2022-88;A2_Analise_Previa;2019-08-27;Informe;doc_8547131.pdf;Nilo Pasquali;Superintendente de Planejamento e;Assinatura eletrônica;53500.047569_2022-88
+53500.047569.2022-88;A2_Analise_Previa;2019-06-05;Informe;doc_8547139.pdf;Nilo Pasquali;Superintendente de Planejamento e Regulamentação;Assinatura eletrônica;53500.047569_2022-88
+53500.047569.2022-88;A2_Analise_Previa;2019-06-05;Informe;doc_8547146.pdf;Nilo Pasquali;Superintendente de Planejamento e;Assinatura eletrônica;53500.047569_2022-88
+53500.047569.2022-88;A4_Notificacao_Autuado;2022-11-01;Certidão de Intimação;doc_9445009.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.047569_2022-88
+53500.047569.2022-88;A4_Notificacao_Autuado;2022-12-06;Certidão de Intimação;doc_9594231.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.047569_2022-88
+53500.057042.2024-23;A3_Despacho_Instauracao;2018-01-08;Despacho Ordinatório;doc_12274516.pdf;Romildo Ignácio de Almeida;Agente de Fiscalização;Assinatura eletrônica;53500.057042_2024-23
+53500.057042.2024-23;A2_Analise_Previa;2024-05-14;Informe;doc_12617777.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.057042_2024-23
+53500.057042.2024-23;A2_Analise_Previa;2024-10-07;Informe;doc_12726024.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.057042_2024-23
+53500.057071.2024-95;A3_Despacho_Instauracao;2018-01-30;Despacho Ordinatório;doc_12272194.pdf;Sami Benakouche;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.057071_2024-95
+53500.057071.2024-95;A4_Notificacao_Autuado;2024-08-13;Certidão de Intimação;doc_12421705.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.057071_2024-95
+53500.057071.2024-95;A4_Notificacao_Autuado;2024-08-15;Certidão de Intimação;doc_12432786.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.057071_2024-95
+53500.057071.2024-95;A4_Notificacao_Autuado;2024-08-20;Certidão de Intimação;doc_12455005.pdf;N/A;N/A;Não identificado;53500.057071_2024-95
+53500.068455.2024-33;A3_Despacho_Instauracao;2024-09-19;Despacho Ordinatório;doc_12460301.pdf;Sami Benakouche;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.068455_2024-33
+53500.068455.2024-33;A4_Notificacao_Autuado;2024-10-18;Certidão de Intimação;doc_12760678.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.068455_2024-33
+53500.083357.2023-45;A4_Notificacao_Autuado;2023-09-15;Certidão de Intimação;doc_10868188.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.083357_2023-45
+53500.083357.2023-45;A3_Despacho_Instauracao;2023-09-29;Despacho Ordinatório;doc_10940484.pdf;Katia Lilian Palma Barbosa;Coordenador de Processo;Assinatura eletrônica;53500.083357_2023-45
+53500.093071.2023-78;A3_Despacho_Instauracao;2023-12-28;Despacho Ordinatório;doc_11041407.pdf;Marcos Paulo Carozza;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.093071_2023-78
+53500.093071.2023-78;A4_Notificacao_Autuado;2024-03-07;Certidão de Intimação;doc_11707506.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.093071_2023-78
+53500.095085.2025-98;A3_Despacho_Instauracao;2025-11-18;Despacho Ordinatório;doc_14703298.pdf;Thayse Rodrigues da Cunha Morais;Gerente de Controle;Assinatura eletrônica;53500.095085_2025-98
+53500.099849.2023-52;A3_Despacho_Instauracao;2023-11-14;Despacho Ordinatório;doc_11097026.pdf;Henrique Strazzer Vilas Boas;Gerente de Controle de;Assinatura eletrônica;53500.099849_2023-52
+53500.099849.2023-52;A4_Notificacao_Autuado;2023-12-18;Certidão de Intimação;doc_11285819.pdf;N/A;N/A;Não identificado;53500.099849_2023-52
+53500.099849.2023-52;A4_Notificacao_Autuado;2023-12-20;Certidão de Intimação;doc_11340069.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.099849_2023-52
+53500.099849.2023-52;A4_Notificacao_Autuado;2024-01-12;Certidão de Intimação;doc_11370828.pdf;N/A;N/A;Não identificado;53500.099849_2023-52
+53500.102531.2024-47;A3_Despacho_Instauracao;2024-12-17;Despacho Ordinatório;doc_13044599.pdf;Ronaldo Serna Quinto;Gerente de Controle de Obrigações de Direitos dos;Assinatura eletrônica;53500.102531_2024-47
+53500.102531.2024-47;A4_Notificacao_Autuado;2025-01-10;Certidão de Intimação;doc_13176410.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.102531_2024-47
+53500.308521.2022-51;A3_Despacho_Instauracao;2022-08-29;Despacho Ordinatório;doc_9025730.pdf;Sami Benakouche;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.308521_2022-51
+53500.308521.2022-51;A4_Notificacao_Autuado;2022-08-29;Certidão de Intimação;doc_9100697.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.308521_2022-51
+53500.308521.2022-51;A4_Notificacao_Autuado;2023-01-19;Certidão de Intimação;doc_9777119.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.308521_2022-51
+53500.312878.2022-34;A3_Despacho_Instauracao;2023-08-24;Despacho Ordinatório;doc_10755971.pdf;Sami Benakouche;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.312878_2022-34
+53500.312878.2022-34;A4_Notificacao_Autuado;2023-08-29;Certidão de Intimação;doc_10851832.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.312878_2022-34
+53500.312878.2022-34;A4_Notificacao_Autuado;2023-09-22;Certidão de Intimação;doc_10898265.pdf;N/A;N/A;Não identificado;53500.312878_2022-34
+53500.312878.2022-34;A4_Notificacao_Autuado;2023-10-30;Certidão de Intimação;doc_11133908.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.312878_2022-34
+53500.312878.2022-34;A4_Notificacao_Autuado;2023-11-27;Certidão de Intimação;doc_11188472.pdf;N/A;N/A;Não identificado;53500.312878_2022-34
+53500.312900.2022-46;A3_Despacho_Instauracao;2023-08-24;Despacho Ordinatório;doc_10757848.pdf;Sami Benakouche;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.312900_2022-46
+53500.312900.2022-46;A4_Notificacao_Autuado;2023-08-29;Certidão de Intimação;doc_10851925.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.312900_2022-46
+53500.312900.2022-46;A4_Notificacao_Autuado;2023-09-22;Certidão de Intimação;doc_10901089.pdf;N/A;N/A;Não identificado;53500.312900_2022-46
+53500.312900.2022-46;A4_Notificacao_Autuado;2023-10-04;Certidão de Intimação;doc_11021089.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.312900_2022-46
+53500.312900.2022-46;A4_Notificacao_Autuado;2023-10-25;Certidão de Intimação;doc_11049156.pdf;N/A;N/A;Não identificado;53500.312900_2022-46
+53500.319834.2022-35;A3_Despacho_Instauracao;2024-02-16;Despacho Ordinatório;doc_11511691.pdf;Sami Benakouche;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.319834_2022-35
+53500.319834.2022-35;A4_Notificacao_Autuado;2025-05-30;Aviso de Recebimento (AR);doc_13883645.pdf;N/A;N/A;Não identificado;53500.319834_2022-35
+53500.330940.2022-70;A3_Despacho_Instauracao;2023-08-15;Despacho Ordinatório;doc_10429695.pdf;Sami Benakouche;Gerente de Controle de Obrigações;Assinatura eletrônica;53500.330940_2022-70
+53500.330940.2022-70;A4_Notificacao_Autuado;2023-08-16;Certidão de Intimação;doc_10727297.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.330940_2022-70
+53500.330940.2022-70;A4_Notificacao_Autuado;2023-10-19;Certidão de Intimação;doc_11030100.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.330940_2022-70
+53500.330940.2022-70;A4_Notificacao_Autuado;2024-03-12;Certidão de Intimação;doc_11646062.pdf;N/A;N/A;Sistema (gerado automaticamente);53500.330940_2022-70
+53504.000402.2025-66;A3_Despacho_Instauracao;2024-11-12;Despacho Ordinatório;doc_13172209.pdf;Moises da Silva Leal;Coordenador Regional de Processo;Assinatura eletrônica;53504.000402_2025-66
+53504.000402.2025-66;A2_Analise_Previa;2024-10-22;Informe;doc_13176879.pdf;Debora Yamada;Coordenador Regional de Processo;Assinatura eletrônica;53504.000402_2025-66
+53504.000402.2025-66;A4_Notificacao_Autuado;2025-02-12;Aviso de Recebimento (AR);doc_13356476.pdf;N/A;N/A;Não identificado;53504.000402_2025-66
+53504.000402.2025-66;A4_Notificacao_Autuado;2025-01-31;Aviso de Recebimento (AR);doc_13418205.pdf;N/A;N/A;Não identificado;53504.000402_2025-66
+53504.000402.2025-66;A4_Notificacao_Autuado;2025-03-20;Aviso de Recebimento (AR);doc_13449923.pdf;N/A;N/A;Não identificado;53504.000402_2025-66
+53504.000402.2025-66;A4_Notificacao_Autuado;2025-05-06;Aviso de Recebimento (AR);doc_13931533.pdf;N/A;N/A;Não identificado;53504.000402_2025-66
+53504.000402.2025-66;A4_Notificacao_Autuado;2025-09-01;Aviso de Recebimento (AR);doc_14313147.pdf;N/A;N/A;Não identificado;53504.000402_2025-66
+53504.000402.2025-66;A4_Notificacao_Autuado;2025-09-15;Aviso de Recebimento (AR);doc_14392476.pdf;N/A;N/A;Não identificado;53504.000402_2025-66
+53504.000455.2025-87;A1_Documento_Motivador;2025-01-24;Auto de Infração;doc_13186565.pdf;N/A;N/A;Não identificado;53504.000455_2025-87
+53504.000455.2025-87;A1_Documento_Motivador;2025-01-28;Relatório de Fiscalização;doc_13201968.pdf;Carlos Augusto de Carvalho;Agente de Fiscalização;Assinatura eletrônica;53504.000455_2025-87
+53504.000455.2025-87;A3_Despacho_Instauracao;2025-01-30;Despacho Ordinatório;doc_13212036.pdf;Marcelo Augusto Scacabarozi;Gerente Regional no;Assinatura eletrônica;53504.000455_2025-87
+53504.000455.2025-87;A2_Analise_Previa;2025-06-06;Informe;doc_14038825.pdf;Ana Paula Silvestrini Vieira Alves;Coordenador Regional;Assinatura eletrônica;53504.000455_2025-87
+53504.001167.2026-21;A4_Notificacao_Autuado;2025-07-31;Certidão de Intimação;doc_15203137.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.001167_2026-21
+53504.001167.2026-21;A2_Analise_Previa;2025-07-31;Informe;doc_15203173.pdf;Eduardo Narkevicius;Agente de Fiscalização;Assinatura eletrônica;53504.001167_2026-21
+53504.001167.2026-21;A3_Despacho_Instauracao;2026-01-20;Despacho Ordinatório;doc_15203192.pdf;José Umberto Sverzut;Gerente Regional no Estado de São;Assinatura eletrônica;53504.001167_2026-21
+53504.001167.2026-21;A2_Analise_Previa;2025-08-08;Informe;doc_15203493.pdf;Debora Yamada;Coordenador Regional de Processo;Assinatura eletrônica;53504.001167_2026-21
+53504.006103.2025-35;A3_Despacho_Instauracao;2025-06-24;Despacho Ordinatório;doc_13874086.pdf;Marcelo Augusto Scacabarozi;Gerente Regional no;Assinatura eletrônica;53504.006103_2025-35
+53504.006103.2025-35;A1_Documento_Motivador;2025-04-01;Relatório de Fiscalização;doc_13874214.pdf;Max Helder José dos Santos;Especialista em Regulação;Assinatura eletrônica;53504.006103_2025-35
+53504.006664.2023-72;A1_Documento_Motivador;1997-07-16;Auto de Infração;doc_10376728.pdf;N/A;N/A;Não identificado;53504.006664_2023-72
+53504.006664.2023-72;A1_Documento_Motivador;1940-12-07;Auto de Infração;doc_10376734.pdf;N/A;N/A;Não identificado;53504.006664_2023-72
+53504.006664.2023-72;A1_Documento_Motivador;2023-06-26;Relatório de Fiscalização;doc_10407647.pdf;Carlos Augusto de Carvalho;Agente de Fiscalização;Assinatura eletrônica;53504.006664_2023-72
+53504.006664.2023-72;A3_Despacho_Instauracao;2023-06-28;Despacho Ordinatório;doc_10450762.pdf;Marcelo Augusto Scacabarozi;Gerente Regional no;Assinatura eletrônica;53504.006664_2023-72
+53504.006664.2023-72;A4_Notificacao_Autuado;2023-09-19;Certidão de Intimação;doc_10898584.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.006664_2023-72
+53504.006664.2023-72;A4_Notificacao_Autuado;2023-10-11;Certidão de Intimação;doc_10992619.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.006664_2023-72
+53504.006664.2023-72;A4_Notificacao_Autuado;2023-10-16;Certidão de Intimação;doc_11003049.pdf;N/A;N/A;Não identificado;53504.006664_2023-72
+53504.006664.2023-72;A4_Notificacao_Autuado;2023-10-17;Certidão de Intimação;doc_11017225.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.006664_2023-72
+53504.006940.2023-01;A1_Documento_Motivador;2023-06-27;Auto de Infração;doc_10457746.pdf;N/A;N/A;Não identificado;53504.006940_2023-01
+53504.006940.2023-01;A1_Documento_Motivador;1997-07-16;Auto de Infração;doc_10457784.pdf;N/A;N/A;Não identificado;53504.006940_2023-01
+53504.006940.2023-01;A1_Documento_Motivador;1940-12-07;Auto de Infração;doc_10457805.pdf;N/A;N/A;Não identificado;53504.006940_2023-01
+53504.006940.2023-01;A1_Documento_Motivador;2023-06-28;Relatório de Fiscalização;doc_10458958.pdf;Ediceu Beraldi;Agente de Fiscalização;Assinatura eletrônica;53504.006940_2023-01
+53504.006940.2023-01;A3_Despacho_Instauracao;2023-07-03;Despacho Ordinatório;doc_10482168.pdf;Marcelo Augusto Scacabarozi;Gerente Regional no;Assinatura eletrônica;53504.006940_2023-01
+53504.006940.2023-01;A4_Notificacao_Autuado;2023-09-21;Certidão de Intimação;doc_10924551.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.006940_2023-01
+53504.006940.2023-01;A1_Documento_Motivador;2023-10-07;Relatório de Fiscalização;doc_10976670.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.006940_2023-01
+53504.006940.2023-01;A4_Notificacao_Autuado;2023-11-16;Certidão de Intimação;doc_11144931.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.006940_2023-01
+53504.007023.2023-35;A1_Documento_Motivador;2023-06-27;Auto de Infração;doc_10457470.pdf;N/A;N/A;Não identificado;53504.007023_2023-35
+53504.007023.2023-35;A1_Documento_Motivador;2023-06-28;Relatório de Fiscalização;doc_10459193.pdf;Ediceu Beraldi;Agente de Fiscalização;Assinatura eletrônica;53504.007023_2023-35
+53504.007023.2023-35;A3_Despacho_Instauracao;2023-07-03;Despacho Ordinatório;doc_10481923.pdf;Marcelo Augusto Scacabarozi;Gerente Regional no;Assinatura eletrônica;53504.007023_2023-35
+53504.007023.2023-35;A1_Documento_Motivador;2023-07-11;Relatório de Fiscalização;doc_10535879.pdf;N/A;N/A;Não identificado;53504.007023_2023-35
+53504.007023.2023-35;A4_Notificacao_Autuado;2023-09-21;Certidão de Intimação;doc_10892017.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.007023_2023-35
+53504.007023.2023-35;A4_Notificacao_Autuado;2023-12-05;Certidão de Intimação;doc_11296470.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.007023_2023-35
+53504.008810.2023-02;A1_Documento_Motivador;2023-08-08;Auto de Infração;doc_10707585.pdf;N/A;N/A;Não identificado;53504.008810_2023-02
+53504.008810.2023-02;A1_Documento_Motivador;2023-08-17;Relatório de Fiscalização;doc_10712400.pdf;Marcio Rodrigues Maciel;Agente de Fiscalização;Assinatura eletrônica;53504.008810_2023-02
+53504.008810.2023-02;A3_Despacho_Instauracao;2023-09-15;Despacho Ordinatório;doc_10732986.pdf;Marcelo Augusto Scacabarozi;Gerente Regional no;Assinatura eletrônica;53504.008810_2023-02
+53504.008810.2023-02;A1_Documento_Motivador;2023-09-26;Relatório de Fiscalização;doc_10896132.pdf;Marcelo Augusto Scacabarozi;Gerente Regional no;Assinatura eletrônica;53504.008810_2023-02
+53504.008859.2024-38;A1_Documento_Motivador;2025-01-10;Relatório de Fiscalização;doc_13133520.pdf;N/A;N/A;Não identificado;53504.008859_2024-38
+53504.008859.2024-38;A4_Notificacao_Autuado;2025-07-01;Certidão de Intimação;doc_13938149.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.008859_2024-38
+53504.008859.2024-38;A4_Notificacao_Autuado;2025-10-10;Certidão de Intimação;doc_14541098.pdf;N/A;N/A;Não identificado;53504.008859_2024-38
+53504.008859.2024-38;A4_Notificacao_Autuado;2025-10-10;Certidão de Intimação;doc_14545691.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.008859_2024-38
+53504.010997.2024-87;A4_Notificacao_Autuado;2025-01-29;Aviso de Recebimento (AR);___SEI___Detalhar_Rastreamento_do_Objeto___.pdf;N/A;N/A;Não identificado;53504.010997_2024-87
+53504.010997.2024-87;A3_Despacho_Instauracao;2024-08-23;Despacho Ordinatório;doc_12401656.pdf;Licindo Pereira Alves Filho;Gerente da Unidade;Assinatura eletrônica;53504.010997_2024-87
+53504.010997.2024-87;A4_Notificacao_Autuado;2024-10-14;Certidão de Intimação;doc_12752311.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.010997_2024-87
+53504.010997.2024-87;A4_Notificacao_Autuado;2025-06-04;Aviso de Recebimento (AR);doc_13809002.pdf;N/A;N/A;Não identificado;53504.010997_2024-87
+53504.010997.2024-87;A4_Notificacao_Autuado;2025-05-12;Aviso de Recebimento (AR);doc_13814877.pdf;N/A;N/A;Não identificado;53504.010997_2024-87
+53504.010997.2024-87;A4_Notificacao_Autuado;2025-07-18;Aviso de Recebimento (AR);doc_14121884.pdf;N/A;N/A;Não identificado;53504.010997_2024-87
+53504.010997.2024-87;A2_Analise_Previa;2024-10-17;Informe;SEI_13069086_Informe_508.pdf;Debora Yamada;Coordenador Regional de Processo;Assinatura eletrônica;53504.010997_2024-87
+53504.011110.2025-59;A3_Despacho_Instauracao;2025-11-14;Despacho Ordinatório;doc_14744572.pdf;Marcelo Augusto Scacabarozi;Gerente Regional no Estado de São Paulo;Assinatura eletrônica;53504.011110_2025-59
+53504.011110.2025-59;A1_Documento_Motivador;2025-10-14;Relatório de Fiscalização;doc_14744594.pdf;Eisenhower Brasil e Silva;Agente de Fiscalização;Assinatura eletrônica;53504.011110_2025-59
+53504.011110.2025-59;A1_Documento_Motivador;1997-07-16;Relatório de Fiscalização;doc_14744671.pdf;N/A;N/A;Não identificado;53504.011110_2025-59
+53504.011110.2025-59;A1_Documento_Motivador;2025-05-05;Relatório de Fiscalização;doc_14744723.pdf;N/A;N/A;Não identificado;53504.011110_2025-59
+53504.011110.2025-59;A2_Analise_Previa;2025-11-13;Informe;doc_14747512.pdf;Debora Yamada;Coordenador Regional de Processo;Assinatura eletrônica;53504.011110_2025-59
+53504.011110.2025-59;A4_Notificacao_Autuado;2026-02-18;Certidão de Intimação;doc_15195900.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.011110_2025-59
+53504.011244.2025-70;A1_Documento_Motivador;1997-07-16;Relatório de Fiscalização;doc_14780523.pdf;N/A;N/A;Não identificado;53504.011244_2025-70
+53504.011244.2025-70;A1_Documento_Motivador;2025-06-25;Relatório de Fiscalização;doc_14781245.pdf;Paulo Roberto Silva Marcos;Especialista em Regulação;Assinatura eletrônica;53504.011244_2025-70
+53504.011244.2025-70;A3_Despacho_Instauracao;2025-06-26;Despacho Ordinatório;doc_14781247.pdf;Amiraldo Salgado do Amaral;Gerente Regional nos;Assinatura eletrônica;53504.011244_2025-70
+53504.011244.2025-70;A2_Analise_Previa;2025-11-19;Informe;doc_14781345.pdf;Ana Paula Silvestrini Vieira Alves;Coordenador Regional de Processo;Assinatura eletrônica;53504.011244_2025-70
+53504.011244.2025-70;A4_Notificacao_Autuado;2025-12-08;Aviso de Recebimento (AR);doc_14959047.pdf;N/A;N/A;Não identificado;53504.011244_2025-70
+53504.011244.2025-70;A4_Notificacao_Autuado;2026-03-18;Certidão de Intimação;doc_15414795.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.011244_2025-70
+53504.011258.2025-93;A3_Despacho_Instauracao;2025-11-24;Despacho Ordinatório;doc_14784543.pdf;Marcelo Augusto Scacabarozi;Gerente Regional no Estado de São Paulo;Assinatura eletrônica;53504.011258_2025-93
+53504.011258.2025-93;A1_Documento_Motivador;2025-08-18;Relatório de Fiscalização;doc_14785406.pdf;Gilmar Ferreira do Nascimento;Coordenador Regional de;Assinatura eletrônica;53504.011258_2025-93
+53504.011258.2025-93;A2_Analise_Previa;2025-11-21;Informe;doc_14794011.pdf;Debora Yamada;Coordenador Regional de Processo;Assinatura eletrônica;53504.011258_2025-93
+53504.011258.2025-93;A4_Notificacao_Autuado;2026-03-18;Certidão de Intimação;doc_15414790.pdf;N/A;N/A;Sistema (gerado automaticamente);53504.011258_2025-93
+53504.017486.2009-57;A3_Despacho_Instauracao;2025-04-08;Despacho Ordinatório;doc_13530137.pdf;Silvio Andrade dos Santos;Corregedor;Assinatura eletrônica;53504.017486_2009-57
+53508.011553.2006-47;A3_Despacho_Instauracao;2023-06-01;Despacho Ordinatório;doc_10329431.pdf;Luciana Baldez de Almeida;Coordenador Regional de;Assinatura eletrônica;53508.011553_2006-47
+53508.011553.2006-47;A4_Notificacao_Autuado;2007-02-09;Aviso de Recebimento (AR);doc_10337078.pdf;N/A;N/A;Não identificado;53508.011553_2006-47
+53512.000039.2024-07;A1_Documento_Motivador;1940-12-07;Auto de Infração;doc_11430246.pdf;N/A;N/A;Não identificado;53512.000039_2024-07
+53512.000039.2024-07;A1_Documento_Motivador;2023-08-08;Relatório de Fiscalização;doc_11531269.pdf;Daniel Redinz Mansur;Coordenador Regional de Processo;Assinatura eletrônica;53512.000039_2024-07
+53512.000039.2024-07;A3_Despacho_Instauracao;2024-02-23;Despacho Ordinatório;doc_11556643.pdf;Licindo Pereira Alves Filho;Gerente da Unidade;Assinatura eletrônica;53512.000039_2024-07
+53512.000039.2024-07;A4_Notificacao_Autuado;2024-03-14;Certidão de Intimação;doc_11750166.pdf;N/A;N/A;Sistema (gerado automaticamente);53512.000039_2024-07
+53512.000039.2024-07;A1_Documento_Motivador;2024-02-23;Relatório de Fiscalização;doc_11831642.pdf;Licindo Pereira Alves Filho;Gerente da Unidade;Assinatura eletrônica;53512.000039_2024-07
+53512.000039.2024-07;A4_Notificacao_Autuado;2024-04-19;Certidão de Intimação;doc_11850734.pdf;N/A;N/A;Sistema (gerado automaticamente);53512.000039_2024-07
+53512.000039.2024-07;A4_Notificacao_Autuado;2024-04-29;Certidão de Intimação;doc_11898550.pdf;N/A;N/A;Não identificado;53512.000039_2024-07
+53512.000039.2024-07;A4_Notificacao_Autuado;2024-05-22;Certidão de Intimação;doc_12017395.pdf;N/A;N/A;Sistema (gerado automaticamente);53512.000039_2024-07
+53512.000158.2024-51;A3_Despacho_Instauracao;2024-04-10;Despacho Ordinatório;doc_11622967.pdf;Daniel Redinz Mansur;Coordenador Regional de;Assinatura eletrônica;53512.000158_2024-51
+53512.000158.2024-51;A1_Documento_Motivador;1940-12-01;Auto de Infração;doc_11624516.pdf;N/A;N/A;Não identificado;53512.000158_2024-51
+53512.000158.2024-51;A1_Documento_Motivador;1940-12-07;Auto de Infração;doc_11705767.pdf;N/A;N/A;Não identificado;53512.000158_2024-51
+53512.000517.2024-71;A3_Despacho_Instauracao;2024-08-23;Despacho Ordinatório;doc_12401656.pdf;Licindo Pereira Alves Filho;Gerente da Unidade;Assinatura eletrônica;53512.000517_2024-71
+53512.000517.2024-71;A4_Notificacao_Autuado;2024-10-14;Certidão de Intimação;doc_12752311.pdf;N/A;N/A;Sistema (gerado automaticamente);53512.000517_2024-71
+53512.000735.2022-43;A1_Documento_Motivador;2023-03-24;Relatório de Fiscalização;doc_10008659.pdf;N/A;N/A;Não identificado;53512.000735_2022-43
+53512.000735.2022-43;A3_Despacho_Instauracao;2022-12-09;Despacho Ordinatório;doc_10386424.pdf;Elano Barbosa Ribeiro;Coordenador Regional de;Assinatura eletrônica;53512.000735_2022-43
+53512.000735.2022-43;A4_Notificacao_Autuado;2023-06-22;Certidão de Intimação;doc_10523717.pdf;N/A;N/A;Sistema (gerado automaticamente);53512.000735_2022-43
+53512.000735.2022-43;A1_Documento_Motivador;2022-12-22;Auto de Infração;doc_9605969.pdf;N/A;N/A;Não identificado;53512.000735_2022-43
+53512.000735.2022-43;A1_Documento_Motivador;1940-12-07;Auto de Infração;doc_9606104.pdf;N/A;N/A;Não identificado;53512.000735_2022-43
+53512.000735.2022-43;A1_Documento_Motivador;2023-01-26;Relatório de Fiscalização;doc_9618234.pdf;Licindo Pereira Alves Filho;Gerente da Unidade;Assinatura eletrônica;53512.000735_2022-43
+53512.000735.2022-43;A2_Analise_Previa;2023-03-22;Informe;doc_9921109.pdf;Domingos Costalonga;Agente de Fiscalização;Assinatura eletrônica;53512.000735_2022-43
+53512.001695.2011-02;A3_Despacho_Instauracao;2022-10-17;Despacho Ordinatório;doc_9288449.pdf;Fernando de Azevedo Sampaio;Especialista em;Assinatura eletrônica;53512.001695_2011-02
+53516.001611.2023-26;A1_Documento_Motivador;2022-09-28;Relatório de Fiscalização;doc_10322475.pdf;Marcos Cesar Queiroz;Agente de Fiscalização;Assinatura eletrônica;53516.001611_2023-26
+53516.001611.2023-26;A3_Despacho_Instauracao;2023-06-18;Despacho Ordinatório;doc_10322501.pdf;Celso Francisco Zemann;Gerente Regional nos Estados do;Assinatura eletrônica;53516.001611_2023-26
+53516.001611.2023-26;A1_Documento_Motivador;2023-07-04;Relatório de Fiscalização;doc_10525984.pdf;Celso Francisco Zemann;Gerente Regional nos Estados do;Assinatura eletrônica;53516.001611_2023-26
+53516.001611.2023-26;A4_Notificacao_Autuado;2023-07-11;Certidão de Intimação;doc_10613836.pdf;N/A;N/A;Sistema (gerado automaticamente);53516.001611_2023-26
+53516.001611.2023-26;A2_Analise_Previa;2023-05-24;Informe;doc_11040985.pdf;Debora Yamada;Coordenador Regional de Processo;Assinatura eletrônica;53516.001611_2023-26
+53516.001611.2023-26;A4_Notificacao_Autuado;2023-10-31;Certidão de Intimação;doc_11074121.pdf;N/A;N/A;Sistema (gerado automaticamente);53516.001611_2023-26
+53516.001611.2023-26;A1_Documento_Motivador;2016-10-24;Relatório de Fiscalização;doc_12243816.pdf;N/A;N/A;Não identificado;53516.001611_2023-26
+53516.002345.2024-30;A2_Analise_Previa;2024-09-13;Informe;doc_12569608.pdf;Marcos Cesar Queiroz;Agente de Fiscalização;Assinatura eletrônica;53516.002345_2024-30
+53516.002345.2024-30;A3_Despacho_Instauracao;2024-09-26;Despacho Ordinatório;doc_12569612.pdf;Celso Francisco Zemann;Gerente Regional nos Estados do;Assinatura eletrônica;53516.002345_2024-30
+53516.002345.2024-30;A1_Documento_Motivador;2024-07-17;Relatório de Fiscalização;doc_13163494.pdf;Fernando Augusto Zepter Valença;Agente de Fiscalização;Assinatura eletrônica;53516.002345_2024-30
+53516.002345.2024-30;A1_Documento_Motivador;2024-11-07;Relatório de Fiscalização;doc_13163495.pdf;Celso Francisco Zemann;Gerente Regional nos Estados do;Assinatura eletrônica;53516.002345_2024-30
+53516.003711.2023-97;A3_Despacho_Instauracao;2023-12-15;Despacho Ordinatório;doc_11226286.pdf;Marcos Bortoleto;Agente de Fiscalização;Assinatura eletrônica;53516.003711_2023-97
+53516.003711.2023-97;A4_Notificacao_Autuado;2024-01-26;Certidão de Intimação;doc_11481757.pdf;N/A;N/A;Sistema (gerado automaticamente);53516.003711_2023-97
+53516.003711.2023-97;A4_Notificacao_Autuado;2024-02-23;Certidão de Intimação;doc_11614803.pdf;N/A;N/A;Sistema (gerado automaticamente);53516.003711_2023-97
+53516.003967.2024-85;A1_Documento_Motivador;2024-12-10;Relatório de Fiscalização;doc_13016360.pdf;Fernando Augusto Zepter Valença;Agente de Fiscalização;Assinatura eletrônica;53516.003967_2024-85
+53516.003967.2024-85;A3_Despacho_Instauracao;2024-12-17;Despacho Ordinatório;doc_13016362.pdf;Celso Francisco Zemann;Gerente Regional nos Estados do;Assinatura eletrônica;53516.003967_2024-85
+53516.003967.2024-85;A4_Notificacao_Autuado;2025-06-13;Certidão de Intimação;doc_13901819.pdf;N/A;N/A;Sistema (gerado automaticamente);53516.003967_2024-85
+53516.003967.2024-85;A2_Analise_Previa;2024-12-10;Informe;doc_14080933.pdf;Ana Paula Silvestrini Vieira Alves;Coordenador Regional;Assinatura eletrônica;53516.003967_2024-85
+53516.003967.2024-85;A4_Notificacao_Autuado;2025-08-14;Certidão de Intimação;doc_14195667.pdf;N/A;N/A;Não identificado;53516.003967_2024-85
+53516.003967.2024-85;A4_Notificacao_Autuado;2025-08-14;Certidão de Intimação;doc_14197578.pdf;N/A;N/A;Sistema (gerado automaticamente);53516.003967_2024-85
+53516.010241.2022-37;A1_Documento_Motivador;2022-09-28;Relatório de Fiscalização;doc_10322475.pdf;Marcos Cesar Queiroz;Agente de Fiscalização;Assinatura eletrônica;53516.010241_2022-37
+53516.010241.2022-37;A3_Despacho_Instauracao;2023-06-18;Despacho Ordinatório;doc_10322501.pdf;Celso Francisco Zemann;Gerente Regional nos Estados do;Assinatura eletrônica;53516.010241_2022-37
+53516.010241.2022-37;A1_Documento_Motivador;2023-07-04;Relatório de Fiscalização;doc_10525984.pdf;Celso Francisco Zemann;Gerente Regional nos Estados do;Assinatura eletrônica;53516.010241_2022-37
+53516.010241.2022-37;A4_Notificacao_Autuado;2023-07-11;Certidão de Intimação;doc_10613836.pdf;N/A;N/A;Sistema (gerado automaticamente);53516.010241_2022-37
+53516.010241.2022-37;A2_Analise_Previa;2023-05-24;Informe;doc_11040985.pdf;Debora Yamada;Coordenador Regional de Processo;Assinatura eletrônica;53516.010241_2022-37
+53516.010241.2022-37;A4_Notificacao_Autuado;2023-10-31;Certidão de Intimação;doc_11074121.pdf;N/A;N/A;Sistema (gerado automaticamente);53516.010241_2022-37
+53516.010241.2022-37;A1_Documento_Motivador;2016-10-24;Relatório de Fiscalização;doc_12243816.pdf;N/A;N/A;Não identificado;53516.010241_2022-37
+53520.001405.2022-76;A1_Documento_Motivador;1997-07-16;Auto de Infração;doc_8677961.pdf;N/A;N/A;Não identificado;53520.001405_2022-76
+53520.001405.2022-76;A1_Documento_Motivador;1940-12-07;Auto de Infração;doc_8677971.pdf;N/A;N/A;Não identificado;53520.001405_2022-76
+53520.001405.2022-76;A1_Documento_Motivador;2022-06-30;Relatório de Fiscalização;doc_8735367.pdf;Juliano Longo Romão;Agente de Fiscalização;Assinatura eletrônica;53520.001405_2022-76
+53520.001405.2022-76;A3_Despacho_Instauracao;2022-06-30;Despacho Ordinatório;doc_8735961.pdf;Celso Francisco Zemann;Gerente Regional nos Estados do;Assinatura eletrônica;53520.001405_2022-76
+53520.001405.2022-76;A4_Notificacao_Autuado;2022-12-20;Certidão de Intimação;doc_9589525.pdf;N/A;N/A;Sistema (gerado automaticamente);53520.001405_2022-76
+53524.000191.2018-02;A1_Documento_Motivador;2018-01-18;Relatório de Fiscalização;doc_2594466.pdf;N/A;N/A;Não identificado;53524.000191_2018-02
+53524.000191.2018-02;A3_Despacho_Instauracao;2018-04-20;Despacho Ordinatório;doc_2639607.pdf;Roberto Mauro Dias Aquino;Coordenador Regional de;Assinatura eletrônica;53524.000191_2018-02
+53524.000191.2018-02;A2_Analise_Previa;2018-01-18;Informe;doc_3224947.pdf;Ronan Gredson Ramos;Técnico em Regulação;Assinatura eletrônica;53524.000191_2018-02
+53524.000191.2018-02;A4_Notificacao_Autuado;2018-01-18;Aviso de Recebimento (AR);doc_3442379.pdf;N/A;N/A;Não identificado;53524.000191_2018-02
+53524.000191.2022-81;A1_Documento_Motivador;2022-01-20;Auto de Infração;doc_8000178.pdf;N/A;N/A;Não identificado;53524.000191_2022-81
+53524.000191.2022-81;A1_Documento_Motivador;1997-07-16;Auto de Infração;doc_8000180.pdf;N/A;N/A;Não identificado;53524.000191_2022-81
+53524.000191.2022-81;A1_Documento_Motivador;1940-12-07;Auto de Infração;doc_8000183.pdf;N/A;N/A;Não identificado;53524.000191_2022-81
+53524.000191.2022-81;A1_Documento_Motivador;2022-02-04;Relatório de Fiscalização;doc_8000288.pdf;Moises da Silva Leal;Coordenador Regional de Processo;Assinatura eletrônica;53524.000191_2022-81
+53524.000191.2022-81;A3_Despacho_Instauracao;2022-02-07;Despacho Ordinatório;doc_8000292.pdf;Otávio Barbosa da Silva Soares;Gerente Regional no;Assinatura eletrônica;53524.000191_2022-81
+53524.000191.2022-81;A2_Analise_Previa;2022-01-20;Informe;doc_8359448.pdf;Carla Simoes Clementino;Especialista em Regulação;Assinatura eletrônica;53524.000191_2022-81
+53524.000191.2022-81;A4_Notificacao_Autuado;2022-05-12;Certidão de Intimação;doc_8455183.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.000191_2022-81
+53524.000366.2024-11;A1_Documento_Motivador;2024-02-08;Auto de Infração;doc_11490470.pdf;N/A;N/A;Não identificado;53524.000366_2024-11
+53524.000366.2024-11;A1_Documento_Motivador;2024-02-08;Auto de Infração;doc_11490474.pdf;N/A;N/A;Não identificado;53524.000366_2024-11
+53524.000366.2024-11;A3_Despacho_Instauracao;2024-02-29;Despacho Ordinatório;doc_11519442.pdf;Otavio Barbosa da Silva Soares;Gerente Regional no;Assinatura eletrônica;53524.000366_2024-11
+53524.000366.2024-11;A4_Notificacao_Autuado;2024-04-12;Certidão de Intimação;doc_11904872.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.000366_2024-11
+53524.000444.2023-05;A3_Despacho_Instauracao;2023-03-31;Despacho Ordinatório;doc_10003094.pdf;Otavio Barbosa da Silva Soares;Gerente Regional no;Assinatura eletrônica;53524.000444_2023-05
+53524.000444.2023-05;A4_Notificacao_Autuado;2023-03-31;Certidão de Intimação;doc_10114995.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.000444_2023-05
+53524.000444.2023-05;A2_Analise_Previa;2023-11-01;Informe;doc_11013513.pdf;Otavio Barbosa da Silva Soares;Gerente Regional no;Assinatura eletrônica;53524.000444_2023-05
+53524.000444.2023-05;A4_Notificacao_Autuado;2024-01-17;Certidão de Intimação;doc_11459685.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.000444_2023-05
+53524.000444.2023-05;A4_Notificacao_Autuado;2025-08-05;Certidão de Intimação;doc_14140915.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.000444_2023-05
+53524.000444.2023-05;A1_Documento_Motivador;1997-07-16;Auto de Infração;doc_9803686.pdf;N/A;N/A;Não identificado;53524.000444_2023-05
+53524.000444.2023-05;A1_Documento_Motivador;1940-12-07;Auto de Infração;doc_9803705.pdf;N/A;N/A;Não identificado;53524.000444_2023-05
+53524.000444.2023-05;A4_Notificacao_Autuado;2023-02-22;Certidão de Intimação;doc_9933738.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.000444_2023-05
+53524.000482.2022-79;A1_Documento_Motivador;2021-03-24;Relatório de Fiscalização;doc_8061393.pdf;Moises da Silva Leal;Coordenador Regional de Processo;Assinatura eletrônica;53524.000482_2022-79
+53524.000482.2022-79;A3_Despacho_Instauracao;2022-02-21;Despacho Ordinatório;doc_8061396.pdf;Otávio Barbosa da Silva Soares;Gerente Regional no;Assinatura eletrônica;53524.000482_2022-79
+53524.000482.2022-79;A4_Notificacao_Autuado;2022-03-22;Certidão de Intimação;doc_8205538.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.000482_2022-79
+53524.000482.2022-79;A4_Notificacao_Autuado;2022-03-24;Certidão de Intimação;doc_8215806.pdf;N/A;N/A;Não identificado;53524.000482_2022-79
+53524.000482.2022-79;A2_Analise_Previa;2022-02-11;Informe;doc_8648375.pdf;Fabiano dos Santos Barroso;Coordenador Regional de;Assinatura eletrônica;53524.000482_2022-79
+53524.000482.2022-79;A4_Notificacao_Autuado;2022-08-01;Certidão de Intimação;doc_8892470.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.000482_2022-79
+53524.001696.2023-43;A3_Despacho_Instauracao;2023-04-24;Despacho Ordinatório;doc_10082421.pdf;Otavio Barbosa da Silva Soares;Gerente Regional no;Assinatura eletrônica;53524.001696_2023-43
+53524.001696.2023-43;A1_Documento_Motivador;2023-04-24;Relatório de Fiscalização;doc_10082451.pdf;Otavio Barbosa da Silva Soares;Gerente Regional no;Assinatura eletrônica;53524.001696_2023-43
+53524.001696.2023-43;A4_Notificacao_Autuado;2023-06-23;Certidão de Intimação;doc_10441511.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.001696_2023-43
+53524.001696.2023-43;A4_Notificacao_Autuado;2023-08-04;Certidão de Intimação;doc_10661543.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.001696_2023-43
+53524.001696.2023-43;A4_Notificacao_Autuado;2023-08-16;Certidão de Intimação;doc_10719220.pdf;N/A;N/A;Não identificado;53524.001696_2023-43
+53524.001696.2023-43;A4_Notificacao_Autuado;2023-08-16;Certidão de Intimação;doc_10719894.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.001696_2023-43
+53524.002016.2022-28;A3_Despacho_Instauracao;2023-04-11;Despacho Ordinatório;doc_10079110.pdf;Elano Barbosa Ribeiro;Coordenador Regional de;Assinatura eletrônica;53524.002016_2022-28
+53524.002016.2022-28;A1_Documento_Motivador;2022-07-05;Auto de Infração;doc_8755578.pdf;N/A;N/A;Não identificado;53524.002016_2022-28
+53524.002016.2022-28;A1_Documento_Motivador;2022-07-25;Relatório de Fiscalização;doc_8820047.pdf;Otávio Barbosa da Silva Soares;Gerente Regional no Estado de Minas;Assinatura eletrônica;53524.002016_2022-28
+53524.002016.2022-28;A1_Documento_Motivador;2022-12-21;Relatório de Fiscalização;doc_9566401.pdf;Renato Sales Bizerra Aguiar;Gerente de Outorga e Licenciamento de Estações;Assinatura eletrônica;53524.002016_2022-28
+53524.002717.2022-67;A3_Despacho_Instauracao;2023-04-28;Despacho Ordinatório;doc_10163139.pdf;Elano Barbosa Ribeiro;Coordenador Regional de;Assinatura eletrônica;53524.002717_2022-67
+53524.002717.2022-67;A1_Documento_Motivador;2022-09-02;Auto de Infração;doc_9062775.pdf;N/A;N/A;Não identificado;53524.002717_2022-67
+53524.002717.2022-67;A1_Documento_Motivador;2022-09-02;Auto de Infração;doc_9062851.pdf;N/A;N/A;Não identificado;53524.002717_2022-67
+53524.002717.2022-67;A4_Notificacao_Autuado;2022-10-27;Certidão de Intimação;doc_9436021.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.002717_2022-67
+53524.002717.2022-67;A1_Documento_Motivador;2022-09-01;Relatório de Fiscalização;doc_9457134.pdf;N/A;N/A;Não identificado;53524.002717_2022-67
+53524.002717.2022-67;A4_Notificacao_Autuado;2022-11-21;Certidão de Intimação;doc_9457135.pdf;N/A;N/A;Não identificado;53524.002717_2022-67
+53524.002717.2022-67;A4_Notificacao_Autuado;2023-02-15;Certidão de Intimação;doc_9834026.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.002717_2022-67
+53524.003964.2024-42;A1_Documento_Motivador;2024-10-02;Relatório de Fiscalização;doc_12648203.pdf;Romerson Gouveia;Agente de Fiscalização;Assinatura eletrônica;53524.003964_2024-42
+53524.003964.2024-42;A3_Despacho_Instauracao;2024-10-04;Despacho Ordinatório;doc_12648245.pdf;Otavio Barbosa da Silva Soares;Gerente Regional no;Assinatura eletrônica;53524.003964_2024-42
+53524.003964.2024-42;A1_Documento_Motivador;2024-10-04;Relatório de Fiscalização;doc_12671917.pdf;Otavio Barbosa da Silva Soares;Gerente Regional no Estado de Minas Gerais;Assinatura eletrônica;53524.003964_2024-42
+53524.003964.2024-42;A4_Notificacao_Autuado;2025-02-21;Certidão de Intimação;doc_13367635.pdf;N/A;N/A;Sistema (gerado automaticamente);53524.003964_2024-42
+53528.003518.2023-17;A1_Documento_Motivador;2023-07-18;Auto de Infração;doc_10605660.pdf;N/A;N/A;Não identificado;53528.003518_2023-17
+53528.003518.2023-17;A1_Documento_Motivador;1940-12-07;Auto de Infração;doc_10605757.pdf;N/A;N/A;Não identificado;53528.003518_2023-17
+53528.003518.2023-17;A3_Despacho_Instauracao;2023-08-02;Despacho Ordinatório;doc_10623798.pdf;Marcio da Rosa Silveira;Gerente Regional no Estado do;Assinatura eletrônica;53528.003518_2023-17
+53528.003956.2023-85;A1_Documento_Motivador;2023-08-24;Relatório de Fiscalização;doc_10843045.pdf;Felipe Schmidt Cabral;Agente de Fiscalização;Assinatura eletrônica;53528.003956_2023-85
+53528.003956.2023-85;A3_Despacho_Instauracao;2023-09-12;Despacho Ordinatório;doc_10847001.pdf;Marcio da Rosa Silveira;Gerente Regional no Estado do;Assinatura eletrônica;53528.003956_2023-85
+53532.000548.2025-74;A1_Documento_Motivador;2025-04-30;Relatório de Fiscalização;doc_13593948.pdf;Eduardo José Souto de Carvalho;Coordenador Regional;Assinatura eletrônica;53532.000548_2025-74
+53532.000548.2025-74;A3_Despacho_Instauracao;2025-04-30;Despacho Ordinatório;doc_13593979.pdf;Alexandre Ataíde Gonçalves Oliveira;Gerente Regional;Assinatura eletrônica;53532.000548_2025-74
+53532.000548.2025-74;A1_Documento_Motivador;2025-05-05;Relatório de Fiscalização;doc_13594003.pdf;Alexandre Ataíde Gonçalves Oliveira;Gerente Regional;Assinatura eletrônica;53532.000548_2025-74
+53532.000548.2025-74;A4_Notificacao_Autuado;2025-05-16;Aviso de Recebimento (AR);doc_13814874.pdf;N/A;N/A;Não identificado;53532.000548_2025-74
+53532.000548.2025-74;A4_Notificacao_Autuado;2025-05-16;Aviso de Recebimento (AR);doc_13814875.pdf;N/A;N/A;Não identificado;53532.000548_2025-74
+53532.000548.2025-74;A2_Analise_Previa;2025-04-15;Informe;doc_14342060.pdf;Elano Barbosa Ribeiro;Coordenador Regional de;Assinatura eletrônica;53532.000548_2025-74
+53532.000548.2025-74;A4_Notificacao_Autuado;2025-09-19;Aviso de Recebimento (AR);doc_14509572.pdf;N/A;N/A;Não identificado;53532.000548_2025-74
+53532.000548.2025-74;A4_Notificacao_Autuado;2025-10-15;Aviso de Recebimento (AR);doc_14697933.pdf;N/A;N/A;Não identificado;53532.000548_2025-74
+53539.000319.2024-17;A1_Documento_Motivador;2024-07-17;Relatório de Fiscalização;doc_12233637.pdf;Giordano Miranda Feitoza;Especialista em Regulação;Assinatura eletrônica;53539.000319_2024-17
+53539.000319.2024-17;A1_Documento_Motivador;2024-07-22;Relatório de Fiscalização;doc_12233638.pdf;Amaro Flor Neto;Gerente da Unidade Operacional no;Assinatura eletrônica;53539.000319_2024-17
+53539.000319.2024-17;A3_Despacho_Instauracao;2024-07-17;Despacho Ordinatório;doc_12233640.pdf;Amaro Flor Neto;Gerente da Unidade Operacional no;Assinatura eletrônica;53539.000319_2024-17
+53539.000319.2024-17;A4_Notificacao_Autuado;2024-08-13;Certidão de Intimação;doc_12430266.pdf;N/A;N/A;Sistema (gerado automaticamente);53539.000319_2024-17
+53539.000319.2024-17;A2_Analise_Previa;2025-08-12;Informe;doc_14140839.pdf;Debora Yamada;Coordenador Regional de Processo;Assinatura eletrônica;53539.000319_2024-17
+53539.000319.2024-17;A4_Notificacao_Autuado;2025-08-22;Certidão de Intimação;doc_14266991.pdf;N/A;N/A;Sistema (gerado automaticamente);53539.000319_2024-17
+53542.000639.2023-29;A1_Documento_Motivador;2023-02-17;Relatório de Fiscalização;doc_10073390.pdf;Cesar Alexandre Parazi;Agente de Fiscalização;Assinatura eletrônica;53542.000639_2023-29
+53542.000639.2023-29;A3_Despacho_Instauracao;2023-08-23;Despacho Ordinatório;doc_10712283.pdf;Cesar Alexandre Parazi;Agente de Fiscalização;Assinatura eletrônica;53542.000639_2023-29
+53542.001110.2000-36;A2_Analise_Previa;2007-10-26;Informe;doc_10194211.pdf;Lucia Paula Lemes;Coordenador Regional de Processo;Assinatura eletrônica;53542.001110_2000-36
+53542.001110.2000-36;A3_Despacho_Instauracao;2023-05-18;Despacho Ordinatório;doc_10259978.pdf;Paulo Aurelio Pereira da Silva;Gerente Regional nos;Assinatura eletrônica;53542.001110_2000-36
+53542.001768.2022-53;A4_Notificacao_Autuado;2023-04-20;Aviso de Recebimento (AR);doc_10179250.pdf;N/A;N/A;Não identificado;53542.001768_2022-53
+53542.001768.2022-53;A3_Despacho_Instauracao;2022-07-07;Despacho Ordinatório;doc_10302055.pdf;Debora Yamada;Coordenador Regional de Processo;Assinatura eletrônica;53542.001768_2022-53
+53542.001768.2022-53;A4_Notificacao_Autuado;2023-06-05;Certidão de Intimação;doc_10421107.pdf;N/A;N/A;Sistema (gerado automaticamente);53542.001768_2022-53
+53542.001768.2022-53;A4_Notificacao_Autuado;2023-10-09;Certidão de Intimação;doc_11044943.pdf;N/A;N/A;Sistema (gerado automaticamente);53542.001768_2022-53
+53542.001768.2022-53;A4_Notificacao_Autuado;2022-07-29;Certidão de Intimação;doc_8967853.pdf;N/A;N/A;Sistema (gerado automaticamente);53542.001768_2022-53
+53542.001768.2022-53;A4_Notificacao_Autuado;2022-09-27;Aviso de Recebimento (AR);doc_9408731.pdf;N/A;N/A;Não identificado;53542.001768_2022-53
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-09-28;Certidão de Intimação;doc_1939236.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-09-28;Certidão de Intimação;doc_1972894.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A1_Documento_Motivador;2013-04-29;Relatório de Fiscalização;doc_1972932.pdf;N/A;N/A;Não identificado;53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-10-06;Certidão de Intimação;doc_1972935.pdf;N/A;N/A;Não identificado;53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-09-28;Certidão de Intimação;doc_1995977.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-09-28;Certidão de Intimação;doc_1995978.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-09-28;Certidão de Intimação;doc_1995979.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A2_Analise_Previa;2012-01-06;Informe;doc_2053191.pdf;Gustavo Santana Borges;Gerente de Controle de;Assinatura eletrônica;53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-11-07;Certidão de Intimação;doc_2133883.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-11-07;Certidão de Intimação;doc_2143972.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-11-07;Certidão de Intimação;doc_2143973.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-11-07;Certidão de Intimação;doc_2143974.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-11-07;Certidão de Intimação;doc_2143975.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2017-12-01;Certidão de Intimação;doc_2180975.pdf;N/A;N/A;Não identificado;53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2018-03-21;Certidão de Intimação;doc_2536509.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2018-03-21;Certidão de Intimação;doc_2546603.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2012-02-08;Aviso de Recebimento (AR);doc_2586445.pdf;N/A;N/A;Não identificado;53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2018-03-21;Certidão de Intimação;doc_2588995.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2018-03-21;Certidão de Intimação;doc_2588996.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53545.000121.2012-11;A4_Notificacao_Autuado;2018-03-21;Certidão de Intimação;doc_2588997.pdf;N/A;N/A;Sistema (gerado automaticamente);53545.000121_2012-11
+53548.000139.2023-37;A3_Despacho_Instauracao;2023-04-04;Despacho Ordinatório;doc_10052844.pdf;Vera Lúcia Burato Marques Sieburger;Gerente da;Assinatura eletrônica;53548.000139_2023-37
+53548.000140.2023-61;A3_Despacho_Instauracao;2022-05-12;Despacho Ordinatório;doc_10126230.pdf;Elano Barbosa Ribeiro;Coordenador Regional de;Assinatura eletrônica;53548.000140_2023-61
+53548.000140.2023-61;A2_Analise_Previa;2023-01-31;Informe;doc_9679441.pdf;Marcos Rogerio Gianotto;Técnico em Regulação;Assinatura eletrônica;53548.000140_2023-61
+53548.000143.2022-14;A3_Despacho_Instauracao;2023-12-21;Despacho Ordinatório;doc_11305406.pdf;Vladia Maria Arruda Holanda;Técnico Administrativo;Assinatura eletrônica;53548.000143_2022-14
+53548.000152.2023-96;A3_Despacho_Instauracao;2023-08-23;Despacho Ordinatório;doc_10729623.pdf;Marcelo Augusto Scacabarozi;Gerente Regional no;Assinatura eletrônica;53548.000152_2023-96
+53548.000153.2022-50;A3_Despacho_Instauracao;2021-07-06;Despacho Ordinatório;doc_7986579.pdf;Ernesto Hideo Okano;Agente de Fiscalização;Assinatura eletrônica;53548.000153_2022-50
+53548.000154.2022-02;A3_Despacho_Instauracao;2024-10-24;Despacho Ordinatório;doc_12786573.pdf;Vladia Maria Arruda Holanda;Técnico Administrativo;Assinatura eletrônica;53548.000154_2022-02
+53554.000104.2002-94;A3_Despacho_Instauracao;2023-12-14;Despacho Ordinatório;doc_11274317.pdf;N/A;Agente Administrativo;Não identificado;53554.000104_2002-94
+53554.000167.2005-93;A3_Despacho_Instauracao;2022-10-04;Despacho Ordinatório;doc_9231155.pdf;Ozanias Ferreira Santos Junior;Técnico em Regulação;Assinatura eletrônica;53554.000167_2005-93
+53554.001430.2005-61;A3_Despacho_Instauracao;2022-10-04;Despacho Ordinatório;doc_9230405.pdf;Ozanias Ferreira Santos Junior;Técnico em Regulação;Assinatura eletrônica;53554.001430_2005-61
+53554.001833.2005-19;A3_Despacho_Instauracao;2022-08-02;Despacho Ordinatório;doc_8900136.pdf;Ozanias Ferreira Santos Junior;Técnico em Regulação;Assinatura eletrônica;53554.001833_2005-19
+53554.002032.2023-44;A3_Despacho_Instauracao;2023-07-07;Despacho Ordinatório;doc_10507640.pdf;Isabel Cristina Cruz Soares e Souza;Agente de;Assinatura eletrônica;53554.002032_2023-44
+53554.002032.2023-44;A4_Notificacao_Autuado;2023-09-20;Certidão de Intimação;doc_10969623.pdf;N/A;N/A;Sistema (gerado automaticamente);53554.002032_2023-44
+53554.002032.2023-44;A4_Notificacao_Autuado;2024-01-24;Certidão de Intimação;doc_11454748.pdf;N/A;N/A;Sistema (gerado automaticamente);53554.002032_2023-44
+53554.002052.2024-04;A1_Documento_Motivador;2024-12-16;Relatório de Fiscalização;doc_13022031.pdf;Leonardo Lago Araújo;Coordenador Regional de;Assinatura eletrônica;53554.002052_2024-04
+53554.002052.2024-04;A3_Despacho_Instauracao;2024-12-16;Despacho Ordinatório;doc_13033028.pdf;Fábio Alexandre Oliveira Lago;Gerente Regional nos;Assinatura eletrônica;53554.002052_2024-04
+53554.002052.2024-04;A4_Notificacao_Autuado;2025-04-24;Aviso de Recebimento (AR);doc_13922766.pdf;N/A;N/A;Não identificado;53554.002052_2024-04
+53554.002052.2024-04;A4_Notificacao_Autuado;2025-04-24;Aviso de Recebimento (AR);doc_13922768.pdf;N/A;N/A;Não identificado;53554.002052_2024-04
+53554.002885.2022-03;A3_Despacho_Instauracao;2023-06-28;Despacho Ordinatório;doc_10461967.pdf;Elano Barbosa Ribeiro;Coordenador Regional de;Assinatura eletrônica;53554.002885_2022-03
+53554.002885.2022-03;A1_Documento_Motivador;2022-10-25;Relatório de Fiscalização;doc_9289615.pdf;Wilton Machado de Oliveira;Técnico em Regulação;Assinatura eletrônica;53554.002885_2022-03
+53554.003038.2023-39;A3_Despacho_Instauracao;2024-01-08;Despacho Ordinatório;doc_11280899.pdf;Jorgean Ferreira Leal;Gerente Regional nos Estados da;Assinatura eletrônica;53554.003038_2023-39
+53554.003038.2023-39;A4_Notificacao_Autuado;2024-03-07;Certidão de Intimação;doc_11622616.pdf;N/A;N/A;Sistema (gerado automaticamente);53554.003038_2023-39
+53554.003600.2007-12;A3_Despacho_Instauracao;2022-06-03;Despacho Ordinatório;doc_8567600.pdf;Ozanias Ferreira Santos Junior;Técnico em Regulação;Assinatura eletrônica;53554.003600_2007-12
+53554.005733.2010-11;A3_Despacho_Instauracao;2022-06-03;Despacho Ordinatório;doc_8567684.pdf;Ozanias Ferreira Santos Junior;Técnico em Regulação;Assinatura eletrônica;53554.005733_2010-11
+53560.000177.2026-74;A3_Despacho_Instauracao;2026-01-23;Despacho Ordinatório;doc_15059873.pdf;Gilberto Studart Gurgel Neto;Gerente Regional nos Estados do Ceará;Assinatura eletrônica;53560.000177_2026-74
+53560.000177.2026-74;A2_Analise_Previa;2025-07-30;Informe;doc_15059888.pdf;Elano Barbosa Ribeiro;Coordenador Regional de Processo;Assinatura eletrônica;53560.000177_2026-74
+53560.000177.2026-74;A1_Documento_Motivador;2025-09-16;Relatório de Fiscalização;doc_15059892.pdf;João Rideo Yokoyama;Agente de Fiscalização;Assinatura eletrônica;53560.000177_2026-74
+53560.000177.2026-74;A4_Notificacao_Autuado;2026-03-22;Certidão de Intimação;doc_15368101.pdf;N/A;N/A;Não identificado;53560.000177_2026-74
+53560.000229.2026-11;A3_Despacho_Instauracao;2026-02-06;Despacho Ordinatório;doc_15119933.pdf;Gilberto Studart Gurgel Neto;Gerente Regional nos;Assinatura eletrônica;53560.000229_2026-11
+53560.000229.2026-11;A2_Analise_Previa;2026-02-02;Informe;doc_15119967.pdf;Elano Barbosa Ribeiro;Coordenador Regional de;Assinatura eletrônica;53560.000229_2026-11
+53560.000229.2026-11;A1_Documento_Motivador;2025-09-29;Relatório de Fiscalização;doc_15119994.pdf;Roberto Carlos Soares Campos;Agente de Fiscalização;Assinatura eletrônica;53560.000229_2026-11
+53560.000262.2026-32;A3_Despacho_Instauracao;2026-02-13;Despacho Ordinatório;doc_15166174.pdf;Gilberto Studart Gurgel Neto;Gerente Regional nos;Assinatura eletrônica;53560.000262_2026-32
+53560.000262.2026-32;A4_Notificacao_Autuado;2025-04-30;Certidão de Intimação;doc_15167341.pdf;N/A;N/A;Sistema (gerado automaticamente);53560.000262_2026-32
+53560.000262.2026-32;A2_Analise_Previa;2025-04-30;Informe;doc_15167424.pdf;Eduardo Narkevicius;Agente de Fiscalização;Assinatura eletrônica;53560.000262_2026-32
+53560.000262.2026-32;A1_Documento_Motivador;2025-10-22;Relatório de Fiscalização;doc_15167605.pdf;Leandro Rodrigues Belo;Técnico em Regulação;Assinatura eletrônica;53560.000262_2026-32
+53560.000633.2024-14;A1_Documento_Motivador;1997-07-16;Auto de Infração;doc_11835315.pdf;N/A;N/A;Não identificado;53560.000633_2024-14
+53560.000633.2024-14;A1_Documento_Motivador;2024-04-24;Relatório de Fiscalização;doc_11855213.pdf;José Leandro Martins Balbino;Técnico em Regulação;Assinatura eletrônica;53560.000633_2024-14
+53560.000633.2024-14;A1_Documento_Motivador;2024-05-02;Relatório de Fiscalização;doc_11888709.pdf;Andre Luiz de Lima Torres;Coordenador Regional de;Assinatura eletrônica;53560.000633_2024-14
+53560.000633.2024-14;A3_Despacho_Instauracao;2024-05-06;Despacho Ordinatório;doc_11918333.pdf;Gilberto Studart Gurgel Neto;Gerente Regional nos;Assinatura eletrônica;53560.000633_2024-14
+53560.000633.2024-14;A4_Notificacao_Autuado;2024-07-15;Certidão de Intimação;doc_12303703.pdf;N/A;N/A;Sistema (gerado automaticamente);53560.000633_2024-14
+53560.000633.2024-14;A4_Notificacao_Autuado;2024-07-30;Certidão de Intimação;doc_12354254.pdf;N/A;N/A;Não identificado;53560.000633_2024-14
+53560.000633.2024-14;A4_Notificacao_Autuado;2024-09-12;Certidão de Intimação;doc_12573851.pdf;N/A;N/A;Não identificado;53560.000633_2024-14
+53560.000633.2024-14;A4_Notificacao_Autuado;2024-09-13;Certidão de Intimação;doc_12577845.pdf;N/A;N/A;Sistema (gerado automaticamente);53560.000633_2024-14
+53560.002455.2025-47;A3_Despacho_Instauracao;2025-09-12;Despacho Ordinatório;doc_14335002.pdf;Gilberto Studart Gurgel Neto;Gerente Regional nos;Assinatura eletrônica;53560.002455_2025-47
+53560.002455.2025-47;A1_Documento_Motivador;2025-06-10;Relatório de Fiscalização;doc_14335473.pdf;Elna Valeria Dantas Lima;Agente de Fiscalização;Assinatura eletrônica;53560.002455_2025-47
+53560.002455.2025-47;A2_Analise_Previa;2025-09-08;Informe;doc_14336361.pdf;Elano Barbosa Ribeiro;Coordenador Regional de;Assinatura eletrônica;53560.002455_2025-47
+53560.002455.2025-47;A4_Notificacao_Autuado;2025-09-17;Aviso de Recebimento (AR);doc_14696238.pdf;N/A;N/A;Não identificado;53560.002455_2025-47
+53560.002455.2025-47;A4_Notificacao_Autuado;2025-09-17;Aviso de Recebimento (AR);doc_14696243.pdf;N/A;N/A;Não identificado;53560.002455_2025-47
+53560.002455.2025-47;A4_Notificacao_Autuado;2026-01-27;Aviso de Recebimento (AR);doc_15390861.pdf;N/A;N/A;Não identificado;53560.002455_2025-47
+53560.002455.2025-47;A4_Notificacao_Autuado;2026-01-27;Aviso de Recebimento (AR);doc_15390863.pdf;N/A;N/A;Não identificado;53560.002455_2025-47
+53560.002667.2024-43;A1_Documento_Motivador;2024-12-10;Auto de Infração;doc_13012275.pdf;N/A;N/A;Não identificado;53560.002667_2024-43
+53560.002667.2024-43;A1_Documento_Motivador;1997-07-16;Auto de Infração;doc_13012311.pdf;N/A;N/A;Não identificado;53560.002667_2024-43
+53560.002667.2024-43;A1_Documento_Motivador;2024-12-18;Relatório de Fiscalização;doc_13021011.pdf;Eldo Almeida Silva;Especialista em Regulação;Assinatura eletrônica;53560.002667_2024-43
+53560.002667.2024-43;A3_Despacho_Instauracao;2024-12-18;Despacho Ordinatório;doc_13021403.pdf;Gilberto Studart Gurgel Neto;Gerente Regional nos;Assinatura eletrônica;53560.002667_2024-43
+53560.002667.2024-43;A4_Notificacao_Autuado;2025-01-16;Certidão de Intimação;doc_13156645.pdf;N/A;N/A;Sistema (gerado automaticamente);53560.002667_2024-43
+53560.002667.2024-43;A4_Notificacao_Autuado;2026-03-11;Certidão de Intimação;doc_15310711.pdf;N/A;N/A;Sistema (gerado automaticamente);53560.002667_2024-43
+53563.000127.2006-13;A3_Despacho_Instauracao;2024-05-29;Despacho Ordinatório;doc_12055386.pdf;Diego Rossi de Andrade do Espirito Santo;Coordenador;Assinatura eletrônica;53563.000127_2006-13
+53569.000034.2022-59;A3_Despacho_Instauracao;2022-01-07;Despacho Ordinatório;doc_7890917.pdf;Carnot Luiz Braun Guimarães;Gerente Regional nos;Assinatura eletrônica;53569.000034_2022-59
+53569.000034.2022-59;A4_Notificacao_Autuado;2022-06-17;Certidão de Intimação;doc_8750656.pdf;N/A;N/A;Sistema (gerado automaticamente);53569.000034_2022-59
+53569.000034.2022-59;A4_Notificacao_Autuado;2022-07-13;Certidão de Intimação;doc_8879891.pdf;N/A;N/A;Sistema (gerado automaticamente);53569.000034_2022-59
+53569.000034.2022-59;A4_Notificacao_Autuado;2022-09-06;Certidão de Intimação;doc_9079976.pdf;N/A;N/A;Sistema (gerado automaticamente);53569.000034_2022-59
+53569.003242.2024-71;A1_Documento_Motivador;2024-12-20;Relatório de Fiscalização;doc_13045996.pdf;Adailton Jesus Pereira Lima;Técnico em Regulação;Assinatura eletrônica;53569.003242_2024-71
+53569.003242.2024-71;A3_Despacho_Instauracao;2024-12-20;Despacho Ordinatório;doc_13059634.pdf;Carnot Luiz Braun Guimarães;Gerente Regional nos;Assinatura eletrônica;53569.003242_2024-71
+53569.003291.2024-12;A1_Documento_Motivador;2024-12-27;Relatório de Fiscalização;doc_13057464.pdf;Adailton Jesus Pereira Lima;Técnico em Regulação;Assinatura eletrônica;53569.003291_2024-12
+53569.003291.2024-12;A3_Despacho_Instauracao;2025-01-02;Despacho Ordinatório;doc_13059643.pdf;Amiraldo Salgado do Amaral;Gerente Regional nos;Assinatura eletrônica;53569.003291_2024-12
+53569.003291.2024-12;A4_Notificacao_Autuado;2025-08-19;Aviso de Recebimento (AR);doc_14271081.pdf;N/A;N/A;Não identificado;53569.003291_2024-12
+53569.003291.2024-12;A4_Notificacao_Autuado;2025-09-09;Aviso de Recebimento (AR);doc_14366902.pdf;N/A;N/A;Não identificado;53569.003291_2024-12
+53572.000091.2022-89;A3_Despacho_Instauracao;2022-03-08;Despacho Ordinatório;doc_8130778.pdf;Karine Braga Monteiro;Gerente da Unidade Operacional;Assinatura eletrônica;53572.000091_2022-89
+53572.000091.2022-89;A4_Notificacao_Autuado;2022-03-08;Certidão de Intimação;doc_8209115.pdf;N/A;N/A;Sistema (gerado automaticamente);53572.000091_2022-89
+53572.000091.2022-89;A4_Notificacao_Autuado;2022-06-02;Certidão de Intimação;doc_8654361.pdf;N/A;N/A;Sistema (gerado automaticamente);53572.000091_2022-89
+53572.000091.2022-89;A4_Notificacao_Autuado;2022-07-23;Certidão de Intimação;doc_8924705.pdf;N/A;N/A;Sistema (gerado automaticamente);53572.000091_2022-89
+53572.000091.2022-89;A4_Notificacao_Autuado;2022-08-22;Certidão de Intimação;doc_9015037.pdf;N/A;N/A;Sistema (gerado automaticamente);53572.000091_2022-89
+53572.000533.2009-10;A3_Despacho_Instauracao;2024-06-07;Despacho Ordinatório;doc_12089946.pdf;Amiraldo Salgado do Amaral;Chefe da Assessoria Técnica;Assinatura eletrônica;53572.000533_2009-10
+53572.000695.2007-96;A3_Despacho_Instauracao;2024-05-22;Despacho Ordinatório;doc_12017579.pdf;Amiraldo Salgado do Amaral;Chefe da Assessoria Técnica;Assinatura eletrônica;53572.000695_2007-96
+53572.000695.2007-96;A2_Analise_Previa;2009-09-02;Informe;doc_12020040.pdf;N/A;N/A;Sistema (gerado automaticamente);53572.000695_2007-96
