@@ -1,11 +1,11 @@
-# LAURA — Compliance in Administrative Procedural Flows: a Semantic Frame-based Approach
+# CAFÉ — Compliance Verification in Administrative Sanctioning Procedure Flows: a Semantic Frame-based Approach
 > Framework de Transparência em IA aplicado à fase de Instauração de Processos Administrativos de Apuração de Descumprimento de Obrigações (PADOs) da ANATEL.
 
 ---
 
 ## Visão Geral
 
-Este projeto implementa o modelo **LAURA** (*Legal AUtomated Regulatory conformance by semantic frAmes*), um pipeline de verificação de conformidade documental para a fase de  **Instauração** de PADOs da ANATEL, combinando três abordagens complementares:
+Este projeto implementa o modelo **CAFÉ** (*Compliance Analysis in Administrative Flows using semantic framEs*), um pipeline de verificação de conformidade documental para a fase de **Instauração** de PADOs da ANATEL:
 
 - **Abordagem A** (linha de base) — correspondência por expressões regulares combinada com similaridade semântica via `sentence-transformers` (`paraphrase-multilingual-MiniLM-L12-v2`)
 - **Abordagem B** (proposta) — similaridade de cosseno no espaço semântico LSA (*Latent Semantic Analysis*) construído sobre o corpus dos PADOs, capturando sinonímia de domínio sem dicionários externos
@@ -122,7 +122,7 @@ Os arquivos abaixo são gerados durante a execução e estão disponíveis no re
 
 ## Dashboard Interativo
 
-Acesse o relatório XAI completo em: [relatorio_xai_pados.html](https://wuldson-franco.github.io/laura_frw_semantic_frame/relatorio_xai_pados.html).
+Acesse o relatório XAI completo em: [relatorio_xai_pados.html](https://wuldson-franco.github.io/cafe_frw_semantic_frame/relatorio_xai_pados.html).
 
 ---
 
@@ -182,8 +182,8 @@ ARQUIVO_SAIDA  = "resultado_requisitos_pados_sf.xlsx"
 Se você usar este código em sua pesquisa, por favor cite:
 
 > Silva, W. F. F., Lins Júnior, P. R., Gurjão, E. C. (2026).
-> *Compliance in Administrative Procedural Flows: a Semantic
-> Frame-based Approach*. ENIAC 2026 — BRACIS.
+> *Compliance Verification in Administrative Sanctioning Procedure
+> Flows: a Semantic Frame-based Approach*. ENIAC 2026 — BRACIS.
 
 ---
 
